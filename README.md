@@ -1,42 +1,41 @@
-<h1 align="center">👨‍💻 Clecio Júnior | Engenheiro de Software</h1>
-
----
+<h1 align="center">👨‍💻 Clecio Júnior | Software Engineering Student</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Construindo+soluções+com+tecnologia;Aprimorando+habilidades+todos+os+dias!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello,+World!%22);">
 </p>
 
 ---
 
-<table border="none">
+<div align="center">
+<table>
   <tr>
-    <td>
-      <h3>💡 Sobre Mim</h3>
+    <td >
+      <h3>💡 About Me</h3>
       <ul>
-        <li>📍 Baseado no Brasil 🇧🇷</li>
+        <li>📍 Manaus, AM</li>
         <li>🎓 Estudante de <strong>Engenharia de Software</strong></li>
         <li>💻 Apaixonado por tecnologia, lógica e desenvolvimento</li>
-        <li>📚 Aprendendo atualmente: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Java</code>, <code>PHP</code></li>
+        <li>📚 Aprendendo atualmente: <code>Java</code></li>
         <li>🚀 Sempre buscando novos desafios e aprendizados</li>
-        <li>🤝 Aberto a colaborações e conexões profissionais</li>
       </ul>
     </td>
     <td>
-      <img src="https://storyset.com/illustration/cross-platform-software/bro" alt="Clecio Júnior"" />
+     <img src="https://github.com/cleciofjur/About-ME/blob/main/Software%20engineer-amico.png" width="250px"/>
     </td>
   </tr>
 </table>
-
+</div>
+  
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clecio-j%C3%BAnior-58b643327/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cleciofjur/)
 
 ---
 
-### 🧰 Tecnologias que uso ou estudo
+### 🧰 Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -46,7 +45,7 @@
 
 ---
 
-### 📈 Minhas estatísticas
+### 📈 Statistics
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleciofjur&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true"/>
@@ -55,18 +54,25 @@
 
 ---
 
-### 🏆 Conquistas e Atividades
+### 🏆 Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cleciofjur&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cleciofjur&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgxaHN6MmpiYTRsdnkzaGxyZzFtY201ejc3aG85aDd0ejdvY2R4YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif" width="150px"/>
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cleciofjur&theme=chartreuse-dark&hide_title=true&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b>"Construindo soluções que fazem a diferença, uma linha de código por vez."</b>
+  <b>"Programação te faz perceber que você pode odiar até mesmo o que ama!"</b>
 </p>
