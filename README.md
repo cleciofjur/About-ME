@@ -34,12 +34,12 @@
 
 ### 🏆 Conquistas e Atividades
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cleciofjur&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SEU_USUARIO_GITHUB&theme=chartreuse-dark&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cleciofjur&theme=chartreuse-dark&hide_title=true&hide_border=true" />
 </p>
 
 ---
