@@ -8,14 +8,24 @@
 
 ---
 
-<h3>💡 Sobre Mim <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="24" style="vertical-align: middle;" /></h3>
-
-- 📍 Baseado no Brasil 🇧🇷  
-- 🎓 Estudante de **Engenharia de Software**  
-- 💻 Apaixonado por tecnologia, lógica e desenvolvimento  
-- 📚 Aprendendo atualmente: **HTML, CSS, JavaScript, Java, PHP**  
-- 🚀 Sempre buscando novos desafios e aprendizados  
-- 🤝 Aberto a colaborações e conexões profissionais  
+<table border="none">
+  <tr>
+    <td>
+      <h3>💡 Sobre Mim</h3>
+      <ul>
+        <li>📍 Baseado no Brasil 🇧🇷</li>
+        <li>🎓 Estudante de <strong>Engenharia de Software</strong></li>
+        <li>💻 Apaixonado por tecnologia, lógica e desenvolvimento</li>
+        <li>📚 Aprendendo atualmente: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Java</code>, <code>PHP</code></li>
+        <li>🚀 Sempre buscando novos desafios e aprendizados</li>
+        <li>🤝 Aberto a colaborações e conexões profissionais</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://storyset.com/illustration/cross-platform-software/bro" alt="Clecio Júnior"" />
+    </td>
+  </tr>
+</table>
 
 ---
 
