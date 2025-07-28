@@ -1,9 +1,5 @@
   <h1 align="center">👨‍💻 Clecio Júnior | Engenheiro de Software</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Construindo+soluções+com+tecnologia;Aprimorando+habilidades+todos+os+dias!">
-</p>
-
+  
 ---
 
 ### 🌐 Conecte-se comigo
@@ -33,9 +29,9 @@
 ---
 
 ### 🏆 Conquistas e Atividades
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=cleciofjur&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+</div>
 ---
 
 <p align="center">
