@@ -37,20 +37,20 @@
 ### 📈 Minhas estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=chartreuse-dark&langs_count=6&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleciofjur&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleciofjur&layout=compact&theme=chartreuse-dark&langs_count=6&hide_title=true"/>
 </div>
 
 ---
 
 ### 🏆 Conquistas e Atividades
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cleciofjur&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SEU_USUARIO_GITHUB&theme=chartreuse-dark&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cleciofjur&theme=chartreuse-dark&hide_title=true&hide_border=true" />
 </p>
 
 ---
