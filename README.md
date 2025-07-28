@@ -1,18 +1,23 @@
 <h1 align="center">👨‍💻 Clecio Júnior | Engenheiro de Software</h1>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Construindo+soluções+com+tecnologia;Aprimorando+habilidades+todos+os+dias!">
 </p>
 
-### 💡 Sobre Mim
+---
+
+<h3>💡 Sobre Mim <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="24" style="vertical-align: middle;" /></h3>
 
 - 📍 Baseado no Brasil 🇧🇷  
-- 🎓 Estudante de **Engenharia de Software**
-- 💻 Apaixonado por tecnologia, lógica e desenvolvimento
-- 📚 Aprendendo atualmente: **HTML, CSS, JavaScript, Java, PHP**
-- 🚀 Sempre buscando novos desafios e aprendizados
-- 🤝 Aberto a colaborações e conexões profissionais
+- 🎓 Estudante de **Engenharia de Software**  
+- 💻 Apaixonado por tecnologia, lógica e desenvolvimento  
+- 📚 Aprendendo atualmente: **HTML, CSS, JavaScript, Java, PHP**  
+- 🚀 Sempre buscando novos desafios e aprendizados  
+- 🤝 Aberto a colaborações e conexões profissionais  
 
+---
 
 ### 🌐 Conecte-se comigo
 
@@ -29,6 +34,8 @@
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=red)
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
 
+---
+
 ### 📈 Minhas estatísticas
 
 <div align="center">
@@ -36,16 +43,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleciofjur&layout=compact&theme=chartreuse-dark&langs_count=6&hide_title=true"/>
 </div>
 
+---
 
 ### 🏆 Conquistas e Atividades
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cleciofjur&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cleciofjur&theme=chartreuse-dark&hide_title=true&hide_border=true" />
 </p>
 
+---
 
 <p align="center">
   <b>"Construindo soluções que fazem a diferença, uma linha de código por vez."</b>
