@@ -1,4 +1,4 @@
-    <h1 align="center">👨‍💻 Clecio Júnior | Engenheiro de Software</h1>
+  <h1 align="center">👨‍💻 Clecio Júnior | Engenheiro de Software</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Construindo+soluções+com+tecnologia;Aprimorando+habilidades+todos+os+dias!">
@@ -26,8 +26,8 @@
 ### 📈 Minhas estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=chartreuse-dark&langs_count=6&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cleciofjur&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleciofjur&layout=compact&theme=chartreuse-dark&langs_count=6&hide_title=true"/>
 </div>
 
 ---
