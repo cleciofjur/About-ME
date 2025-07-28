@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Construindo+soluções+com+tecnologia;Aprimorando+habilidades+todos+os+dias!">
 </p>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?...&color=00FF88..." />
 
 ### 💡 Sobre Mim
 
