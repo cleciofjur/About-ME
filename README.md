@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td>
-<!--      <img src="https://github.com/cleciofjur/About-ME/blob/main/Software%20engineer-amico.png" width="250px"/> -->
+     <img src="https://github.com/cleciofjur/About-ME/blob/main/Software%20engineer-amico.png" width="250px"/>
     </td>
   </tr>
 </table>
